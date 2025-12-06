@@ -75,7 +75,7 @@ too - it's ignored in the kickstart repo to make maintenance easier, but it's
 
 My fork:
 ```sh
-git clone git@github.com:nanak/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/nanak/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 ```sh
