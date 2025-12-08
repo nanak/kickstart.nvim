@@ -1,5 +1,9 @@
 # kickstart.nvim
 
+Clone my fork:
+```sh
+git clone https://github.com/nanak/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+```
 ## Introduction
 
 A starting point for Neovim that is:
@@ -72,11 +76,6 @@ too - it's ignored in the kickstart repo to make maintenance easier, but it's
 > `nvim-lua` with `<your_github_username>` in the commands below
 
 <details><summary> Linux and Mac </summary>
-
-My fork:
-```sh
-git clone https://github.com/nanak/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
-```
 
 ```sh
 git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
